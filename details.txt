@@ -1,0 +1,6 @@
+pandas
+requests
+BeautifulSoup
+
+
+url = 'https://en.wikipedia.org/wiki/List_of_hotels_in_Sri_Lanka#Colombo_District'
